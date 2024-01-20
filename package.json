@@ -1,0 +1,21 @@
+{
+  "name": "video-backend",
+  "version": "1.0.0",
+  "description": "This is the project about leanings on backend with javascript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "BBhuwan J",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.1.0",
+    "nodemon": "^3.0.3"
+  }
+}
